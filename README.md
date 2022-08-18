@@ -1,7 +1,7 @@
 # comment-box
 <h2>Deployed Link</h2>
 
-  <a href=">https://heartfelt-mandazi-40fb14.netlify.app" target="_blank">Please Click</a>
+ <a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
   
 <h1>Landing Page</h1>
 
